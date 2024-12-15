@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to image loading.  The bug occurs when an <img> tag attempts to load an image from a source that does not exist.  This results in a broken image, potentially impacting the layout and user experience. The solution provides a method for handling this case gracefully.
